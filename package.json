@@ -1,0 +1,49 @@
+{
+  "name": "is-charging-cli",
+  "version": "0.0.0",
+  "description": "Find out if a computer is charging",
+  "license": "MIT",
+  "repository": "gillstrom/is-charging-cli",
+  "author": {
+    "name": "Andreas Gillström",
+    "email": "andreasgillstrom@gmail.com",
+    "url": "github.com/gillstrom"
+  },
+  "bin": {
+    "is-charging": "cli.js"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "app",
+    "battery",
+    "charge",
+    "charging",
+    "cli",
+    "cli-app",
+    "indication",
+    "is",
+    "linux",
+    "mac",
+    "osx",
+    "utility",
+    "win",
+    "windows"
+  ],
+  "dependencies": {
+    "is-charging": "^1.0.0",
+    "meow": "^3.7.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "execa": "^0.4.0",
+    "xo": "*"
+  }
+}
