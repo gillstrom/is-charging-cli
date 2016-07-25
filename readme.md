@@ -13,7 +13,7 @@ $ npm install --global is-charging-cli
 $ is-charging-cli --help
 
   Usage
-    is-charging-cli
+    $ is-charging-cli
 ```
 
 
