@@ -5,7 +5,7 @@ const isCharging = require('is-charging');
 
 meow(`
 	Usage
-	  $ is-charging-cli
+	  $ is-charging
 `);
 
 isCharging().then(console.log);

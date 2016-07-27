@@ -10,10 +10,10 @@ $ npm install --global is-charging-cli
 ```
 
 ```
-$ is-charging-cli --help
+$ is-charging --help
 
   Usage
-    $ is-charging-cli
+    $ is-charging
 ```
 
 
