@@ -38,7 +38,7 @@
     "windows"
   ],
   "dependencies": {
-    "is-charging": "^1.0.0",
+    "is-charging": "^2.0.0",
     "meow": "^3.7.0"
   },
   "devDependencies": {
