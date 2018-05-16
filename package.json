@@ -1,6 +1,6 @@
 {
   "name": "is-charging-cli",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Find out if a computer is charging",
   "license": "MIT",
   "repository": "gillstrom/is-charging-cli",
